@@ -1,0 +1,3 @@
+export const GET_COURSES = "GET_COURSES";
+export const GET_POSTCODE = "GET_POSTCODE";
+export const UPDATE_POSTCODE = "UPDATE_POSTCODE";
